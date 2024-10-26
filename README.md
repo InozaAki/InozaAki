@@ -14,7 +14,7 @@
     <b>💜 𝘊𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘵𝘰 𝘣𝘦 𝘍𝘶𝘭𝘭 𝘚𝘵𝘢𝘤𝘬 💜</b><br>
     <b><a href="https://github.com/InozaAki">Axel Espinosa</a> (⸝⸝ᵕᴗᵕ⸝⸝)</b><br>
     <b>Hobbies:</b> Manga 📕 | Photography 📷 | Chill ☕ | Coding 💻
-  <p align="center">I am a very passionate person about my work, always looking to give my best and to be updated. I'm also learning about algorithms, data structures</p> <br>
+  <p align="center">I am a very passionate person about my work, always looking to give my best and to be updated. I'm also learning about algorithms and data structures.</p> <br>
   <br>
 </p>
 <br>
