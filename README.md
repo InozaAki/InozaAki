@@ -9,9 +9,6 @@
 ---
 
 ## 💜 About Me
-
-<img src="https://media1.tenor.com/m/HrRI4Jh1itUAAAAC/inoue-takina-inoue.gif" align="right" width="320px" style="border-radius: 10px; margin-left: 20px;">
-
 ```yaml
 name: Axel Espinosa
 role: Backend-focused Full Stack Developer
