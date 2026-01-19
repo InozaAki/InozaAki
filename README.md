@@ -6,8 +6,6 @@
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTY5cGx2NWVhdjMxbW83cnBrangwdDRnbXU5c3JnNWp1bXlvcWdibCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4qdB4dY4xsKWc/giphy.gif" width="400">
 
----
-
 ## 💜 About Me
 ```yaml
 name: Axel Espinosa
@@ -25,8 +23,6 @@ I enjoy transforming complex ideas into clean architectures, focusing on clarity
 
 <br clear="right"/>
 
----
-
 ## 🚀 Currently Working On
 
 <div align="left">
@@ -41,8 +37,6 @@ const currentProjects = {
 ```
 
 </div>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -74,8 +68,6 @@ const currentProjects = {
 
 </div>
 
----
-
 ## 💼 Portfolio
 
 <div align="center">
@@ -87,8 +79,6 @@ const currentProjects = {
 
 </div>
 
----
-
 ## 📬 Let's Connect
 
 <div align="center">
@@ -98,8 +88,6 @@ const currentProjects = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axel-antonio-espinosa-espinoza-564035264/)
 
 </div>
-
----
 
 <div align="center">
 
